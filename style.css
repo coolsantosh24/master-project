@@ -1,3 +1,6 @@
 body{
     grid-row-end: none;
 }
+color{
+    background-color: aliceblue;
+}
